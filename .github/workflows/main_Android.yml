@@ -46,6 +46,6 @@ jobs:
         env:
           BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
           CHANNEL: android
-          ITCH_GAME: sphere
+          ITCH_GAME: danlo-project
           ITCH_USER: peryloth
           PACKAGE: build/Android
